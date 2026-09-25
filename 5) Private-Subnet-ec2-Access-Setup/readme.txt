@@ -1,0 +1,1 @@
+Do the same for the other private ec2 instance on us-east-1b using it's private ip address from the jump host
